@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - new change
+- change made through desktop app
 
 <!---
 Khawar-Munir/Khawar-Munir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
